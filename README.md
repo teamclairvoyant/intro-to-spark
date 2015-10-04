@@ -15,3 +15,8 @@
 ##Sample Programs
 ##Hello World(WordCount)
 ##Run within a VM
+
+
+#QnA
+We will be using sli.do
+
