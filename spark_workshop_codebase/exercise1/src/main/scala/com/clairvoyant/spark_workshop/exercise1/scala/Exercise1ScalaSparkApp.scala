@@ -8,7 +8,6 @@ import org.apache.spark.{SparkContext, SparkConf}
 object Exercise1ScalaSparkApp {
 
   def main(args: Array[String]): Unit = {
-
     val conf = new SparkConf().setAppName("Exercise1ScalaSparkApp").setMaster("yarn-client")
     val sc = new SparkContext(conf)
 

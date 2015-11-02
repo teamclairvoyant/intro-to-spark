@@ -12,7 +12,6 @@ public class Exercise4JavaSparkApp {
         SparkConf conf = new SparkConf().setAppName("Exercise4JavaSparkApp").setMaster("yarn-client");
         JavaSparkContext sc = new JavaSparkContext(conf);
 
-
     }
 
 }
