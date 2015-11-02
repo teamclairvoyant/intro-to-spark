@@ -1,0 +1,3 @@
+0	226 Jefferson St.	Milwaukee	WI	53129
+1	274 Albert Ave.	Miami	FL	62031
+2	666 Satan Ave.	Purgatory	HL	66666
