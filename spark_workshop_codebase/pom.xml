@@ -29,6 +29,7 @@
         <module>exercise2</module>
         <module>exercise3</module>
         <module>exercise4</module>
+        <module>wordcount</module>
         <module>playground</module>
     </modules>
 
