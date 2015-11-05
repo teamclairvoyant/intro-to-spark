@@ -145,15 +145,15 @@ System.out.println(readmeWordCount.join(changesWordCount).collect());
 **Scala Answer:**
 
 ```scala
-**val** readme =
+val readme =
 sc.textFile("/user/cloudera/spark-workshop-data/spark/README.md")
-**val** readmeWordCount = readme.flatMap(line => line.split("
+val readmeWordCount = readme.flatMap(line => line.split("
 ")).filter(_.equals("Spark")).map(word => (word, 1)).reduceByKey(_ +
 _)
 
-**val** changes =
+val changes =
 sc.textFile("/user/cloudera/spark-workshop-data/spark/CHANGES.txt")
-**val** changesWordCount = changes.flatMap(line => line.split("
+val changesWordCount = changes.flatMap(line => line.split("
 ")).filter(_.equals("Spark")).map(word => (word, 1)).reduceByKey(_ +
 _)
 
@@ -163,17 +163,11 @@ readmeWordCount.join(changesWordCount).collect()
 **Python Answer:**
 
 ```python
-readme =
-sc.textFile("/user/cloudera/spark-workshop-data/spark/README.md")
-readmeWordCount = readme.flatMap(**lambda** line: line.split("
-")).filter(**lambda** word: word == "Spark").map(**lambda** word: (word,
-1)).reduceByKey(**lambda** a, b: a + b)
+readme = sc.textFile("/user/cloudera/spark-workshop-data/spark/README.md")
+readmeWordCount = readme.flatMap(lambda line: line.split("")).filter(lambda word: word == "Spark").map(lambda word: (word, 1)).reduceByKey(lambda a, b: a + b)
 
-changes =
-sc.textFile("/user/cloudera/spark-workshop-data/spark/CHANGES.txt")
-changesWordCount = changes.flatMap(**lambda** line: line.split("
-")).filter(**lambda** word: word == "Spark").map(**lambda** word: (word,
-1)).reduceByKey(**lambda** a, b: a + b)
+changes = sc.textFile("/user/cloudera/spark-workshop-data/spark/CHANGES.txt")
+changesWordCount = changes.flatMap(lambda line: line.split("")).filter(lambda word: word == "Spark").map(lambda word: (word,1)).reduceByKey(lambda a, b: a + b)
 
 readmeWordCount.join(changesWordCount).collect()
 # [(u'Spark', (12, 101))]
