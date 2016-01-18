@@ -18,6 +18,8 @@ Main Web Page: http://spark.apache.org/
 		* A maven project containing a codebase that you can use to do the exercises
 	* Advanced Exercise Answers
 		* Possible solutions to the Advanced Exercises
+	* CDH Quick Start
+		* A document that helps describe how to use the VM
 	* Exercise Answers
 		* Possible solutions to the standard Exercises
 	* Intro to Apache Spark Slides
