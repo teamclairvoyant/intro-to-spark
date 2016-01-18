@@ -203,28 +203,27 @@ list of strings and return the strings that start with “w”.
 In this exercise you will analyze the access.log file using spark by
 calculate the following:
 
--   Count how many times the “/health” URL was hit
+-   Count how many times the “/health” URL was hit.
 
--   Get all events that occurred on May 19th 2014 and save them to HDFS
+-   Map each line into the following tuple format (ip_address, full_line) and save the contents to HDFS.
 
 Access log file can be found in two locations:
 
--   In the spark-workshop-data.zip file provided, in the “logs” subdirectory
+-   In the spark-workshop-data.zip file provided, in the “logs” subdirectory.
 
--   In HDFS (on the VM provided) at
+-   In HDFS (on the VM provided) at:
 
         /user/cloudera/spark-workshop-data/logs/access.log
 
 ##Exercise 3 – Joining Datasets
 
-In this exercise you will be finding out how many times the work “Spark”
-shows up in the README.md and CHANGES.txt by following the bellow steps:
+Using the README.md and CHANGES.txt files, find out how many times the word “Spark” shows up in both of the files by joining the data together. Follow the bellow steps:
 
-1.  Create RDD’s to filter each file for the keyword “Spark”
+1.	Create RDD’s for each file and filter each file to only keep all the instances of the work “Spark”
 
-2.  Perform a WordCount on each of the resulting datasets so the results are (K, V) pairs of (word, count)
+2.	Perform a word count on each of the resulting datasets so the results are (K, V) pairs of type (word, count)
 
-3.  Join the two RDDs
+3.	Join the two RDDs
 
 Files can be found in two locations:
 

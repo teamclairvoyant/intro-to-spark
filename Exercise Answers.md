@@ -26,49 +26,51 @@ N/A
 
 ####Question:
 
-Analyze the access.log file and calculate the following:
+In this exercise you will analyze the access.log file using spark by
+calculate the following:
 
--   Count how many times the “/health” URL was hit
+-   Count how many times the “/health” URL was hit.
 
--   Get all events that occurred on May 19th 2014 and save them to HDFS
+-   Map each line into the following tuple format (ip_address, full_line) and save the contents to HDFS.
 
 Access log file can be found in two locations:
 
--   In the spark-workshop-data.zip file provided, in the “logs” subdirectory
+-   In the spark-workshop-data.zip file provided, in the “logs” subdirectory.
 
--   In HDFS (on the VM provided) at
+-   In HDFS (on the VM provided) at:
 
         /user/cloudera/spark-workshop-data/logs/access.log
 
 ####Java Answer:
 
->JavaRDD<String> accessLogs = sc.textFile("/user/cloudera/spark-workshop-data/logs/access.log");
+> JavaRDD<String> accessLogs = sc.textFile("/user/cloudera/spark-workshop-data/logs/access.log");
 
->JavaRDD<String> accessLogsHealth = accessLogs.filter(new Function<String, Boolean>() {
+> JavaRDD<String> accessLogsHealth = accessLogs.filter(new Function<String, Boolean>() {
 
->&nbsp;&nbsp;&nbsp;&nbsp; public Boolean call(String s) {
+>    public Boolean call(String s) {
 
->&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; return s.contains("/health");
+>        return s.contains("/health");
 
->&nbsp;&nbsp;&nbsp;&nbsp; }
-
->});
-
->System.out.println(accessLogsHealth.count());
-
->//5470
-
->JavaRDD<String> accessLogsMay192014 = accessLogs.filter(new Function<String, Boolean>() {
-
->&nbsp;&nbsp;&nbsp;&nbsp; public Boolean call(String s) {
-
->&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; return s.contains("Mon, 19 May 2014");
-
->&nbsp;&nbsp;&nbsp;&nbsp; }
+>    }
 
 >});
 
->accessLogsMay192014.saveAsTextFile("/user/cloudera/spark-workshop-output-data/logs/access-logs-5-19-2014");
+> System.out.println(accessLogsHealth.count());
+> //5470
+
+> JavaRDD<Tuple2<String, String>> mappedAccessLogs = accessLogs.map(new Function<String, Tuple2<String, String>>() {
+
+>    public Tuple2<String, String> call(String line) throws Exception {
+
+>        String[] splitLine = line.split(" ");
+
+>        return new Tuple2<String, String>(splitLine[0], line);
+
+>    }
+
+>});
+
+> mappedAccessLogs.saveAsTextFile("/user/cloudera/spark-workshop-output-data/logs/access-logs-mapped");
 
 ####Scala Answer:
 
@@ -78,7 +80,7 @@ Access log file can be found in two locations:
 
 > //res0: Long = 5470
 
-> accessLogs.filter(_.contains("Mon, 19 May 2014")).saveAsTextFile("/user/cloudera/spark-workshop-output-data/logs/access-logs-5-19-2014")
+> accessLogs.map(line => (line.split(" ")(0), line)).saveAsTextFile("/user/cloudera/spark-workshop-output-data/logs/access-logs-mapped")
 
 ####Python Answer:
 
@@ -86,24 +88,22 @@ Access log file can be found in two locations:
 
 > accessLogs.filter(lambda x: "/health" in x).count()
 
-> /#5470
+> #5470
 
-> accessLogs.filter(lambda x: "Mon, 19 May 2014" in x).saveAsTextFile("/user/cloudera/spark-workshop-output-data/logs/access-logs-5-19-2014")
+> accessLogs.map(lambda line: (line.split(" ")[0], line)).saveAsTextFile("/user/cloudera/spark-workshop-output-data/logs/access-logs-mapped")
+
 
 ##Exercise 3 – Joining Datasets
 
 ####Question:
 
-Using the README.md and CHANGES.txt, find out how many time the word
-“Spark” shows up in both of the files together by following the bellow
-steps:
+Using the README.md and CHANGES.txt files, find out how many times the word “Spark” shows up in both of the files by joining the data together. Follow the bellow steps:
 
-1.  Create RDD’s to filter each file for the keyword “Spark”
+1.	Create RDD’s for each file and filter each file to only keep all the instances of the work “Spark”
 
-2.  Perform a WordCount on each of the resulting datasets so the results
-    are (K, V) pairs of (word, count)
+2.	Perform a word count on each of the resulting datasets so the results are (K, V) pairs of type (word, count)
 
-3.  Join the two RDDs
+3.	Join the two RDDs
 
 Files can be found in two locations:
 
