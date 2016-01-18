@@ -3,6 +3,10 @@ __author__ = 'robertsanders'
 from pyspark import SparkConf, SparkContext
 import sys
 
+
+def count(lines):
+    return lines.flatMap(lambda line: line.split(" ")).map(lambda word: (word, 1)).reduceByKey(lambda a, b: a + b).filter(lambda a: not a._1.isEmpty())
+
 if __name__ == "__main__":
     conf = SparkConf().setAppName("WordCountPythonSparkApp").setMaster("yarn-client")
     sc = SparkContext(conf = conf)
@@ -18,6 +22,7 @@ if __name__ == "__main__":
         print "Error: Invalid Arguments! Requires 2 arguments: <inputFile> <outputFile>"
         sys.exit(1)
 
-    text_file = sc.textFile(inputFile)
-    counts = text_file.flatMap(lambda line: line.split(" ")).map(lambda word: (word, 1)).reduceByKey(lambda a, b: a + b)
+    lines = sc.textFile(inputFile)
+    counts = count(lines)
+
     counts.saveAsTextFile(outputFile)

@@ -1,5 +1,6 @@
 package com.clairvoyant.spark_workshop.wordcount.scala
 
+import org.apache.spark.rdd.RDD
 import org.apache.spark.{SparkContext, SparkConf}
 
 /**
@@ -25,11 +26,16 @@ object WordCountScalaSparkApp {
 
     val textFile = sc.textFile(inputFile)
 
-    val counts = textFile.flatMap(line => line.split(" "))
-      .map(word => (word, 1))
-      .reduceByKey(_ + _)
+    val counts = count(textFile)
 
     counts.saveAsTextFile(outputFile)
+  }
+
+  def count(textFile: RDD[String]): RDD[(String, Int)] = {
+    textFile.flatMap(line => line.split(" "))
+      .map(word => (word, 1))
+      .reduceByKey(_ + _)
+      .filter(!_._1.isEmpty)
   }
 
 }

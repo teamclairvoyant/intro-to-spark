@@ -1,12 +1,15 @@
 package com.clairvoyant.spark_workshop.wordcount.java;
 
 import org.apache.spark.SparkConf;
+import org.apache.spark.SparkContext;
 import org.apache.spark.api.java.JavaPairRDD;
 import org.apache.spark.api.java.JavaRDD;
 import org.apache.spark.api.java.JavaSparkContext;
 import org.apache.spark.api.java.function.FlatMapFunction;
+import org.apache.spark.api.java.function.Function;
 import org.apache.spark.api.java.function.Function2;
 import org.apache.spark.api.java.function.PairFunction;
+import org.apache.spark.rdd.RDD;
 import scala.Tuple2;
 
 import java.util.Arrays;
@@ -31,9 +34,17 @@ public class WordCountJavaSparkApp {
             return;
         }
 
-        JavaRDD<String> textFile = sc.textFile(inputFile);
+        JavaRDD<String> lines = sc.textFile(inputFile);
+        JavaPairRDD<String, Integer> counts = count(lines);
 
-        JavaRDD<String> words = textFile.flatMap(new FlatMapFunction<String, String>() {
+        counts.saveAsTextFile(outputFile);
+
+    }
+
+
+    public static JavaPairRDD<String, Integer> count(JavaRDD<String> lines) {
+
+        JavaRDD<String> words = lines.flatMap(new FlatMapFunction<String, String>() {
             public Iterable<String> call(String line) { return Arrays.asList(line.split(" ")); }
         });
         JavaPairRDD<String, Integer> pairs = words.mapToPair(new PairFunction<String, String, Integer>() {
@@ -45,8 +56,11 @@ public class WordCountJavaSparkApp {
             public Integer call(Integer a, Integer b) { return a + b; }
         });
 
-        counts.saveAsTextFile(outputFile);
-
+        return counts.filter(new Function<Tuple2<String, Integer>, Boolean>() {
+            public Boolean call(Tuple2<String, Integer> tuple) throws Exception {
+                return !tuple._1().isEmpty();
+            }
+        });
     }
 
 }
