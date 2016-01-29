@@ -15,7 +15,7 @@ object Exercise1ScalaSparkApp {
     val data = sc.parallelize(list)
     val wData = data.filter(_.startsWith("w"))
     val outputList = wData.collect()
-    print(outputList.mkString(" "))
+    println(outputList.mkString(" "))
 
   }
 
