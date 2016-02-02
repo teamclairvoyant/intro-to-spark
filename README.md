@@ -28,6 +28,8 @@ Main Web Page: http://spark.apache.org/
 	* A document that can be sent out to participants that includes all the information the individual should need to know about the workshop
 * Schedule
 	* A rough schedule detailing how long each section and exercise should take and when things are set to begin
+* Setup
+	* A Document that contins some VM Setup instructiosn to ensure that the users environment is ready for the final VM to be provided
 * Setup and Exercises
 	* A Document that contins the VM Setup instructions and all the exercises that participants will do
 * Workshop Abstract
