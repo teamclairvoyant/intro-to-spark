@@ -1,0 +1,840 @@
+ chief executives
+ general and operations managers
+ legislators
+ advertising and promotions managers
+ marketing managers
+ sales managers
+ public relations and fundraising managers
+ administrative services managers
+ computer and information systems managers
+financial managers
+ industrial production managers
+ purchasing managers
+ transportation storage and distribution managers
+ compensation and benefits managers
+ human resources managers
+ training and development managers
+ farmers ranchers and other agricultural managers
+ construction managers
+ education administrators preschool and childcare centerprogram
+ education administrators elementary and secondary school
+ education administrators postsecondary
+ education administrators all other
+ architectural and engineering managers
+food service managers
+ funeral service managers
+ gaming managers
+lodging managers
+ medical and health services managers
+ natural sciences managers
+postmasters and mail superintendents
+ property real estate and community association managers
+ social and community service managers
+ emergency management directors
+ managers all other
+ agents and business managers of artists performers and athletes
+ buyers and purchasing agents farm products
+ wholesale and retail buyers except farm products
+ purchasing agents except wholesale retail and farm products
+ claims adjusters examiners and investigators
+ insurance appraisers auto damage
+ compliance officers
+ cost estimators
+ human resources specialists
+ farm labor contractors
+ labor relations specialists
+ logisticians
+ management analysts
+ meeting convention and event planners
+ fundraisers
+ compensation benefits and job analysis specialists
+ training and development specialists
+ market research analysts and marketing specialists
+ business operations specialists all other
+ accountants and auditors
+ appraisers and assessors of real estate
+ budget analysts
+ credit analysts
+ financial analysts
+ personal financial advisors
+ insurance underwriters
+ financial examiners
+ credit counselors
+ loan officers
+ tax examiners and collectors and revenue agents
+tax preparers
+ financial specialists all other
+ computer and information research scientists
+ computer systems analysts
+ information security analysts
+ computer programmers
+ software developers applications
+ software developers systems software
+ web developers
+ database administrators
+ network and computer systems administrators
+ computer network architects
+ computer user support specialists
+ computer network support specialists
+ computer occupations all other
+ actuaries
+ mathematicians
+ operations research analysts
+ statisticians
+ mathematical technicians
+ mathematical science occupations all other
+ architects except landscape and naval
+ landscape architects
+ cartographers and photogrammetrists
+ surveyors
+ aerospace engineers
+ agricultural engineers
+ biomedical engineers
+chemical engineers
+ civil engineers
+ computer hardware engineers
+ electrical engineers
+ electronics engineers except computer
+ environmental engineers
+ health and safety engineers except mining safety engineers and inspectors
+ industrial engineers
+ marine engineers and naval architects
+ materials engineers
+ mechanical engineers
+ mining and geological engineers including mining safety engineers
+ nuclear engineers
+ petroleum engineers
+ engineers all other
+ architectural and civil drafters
+ electrical and electronics drafters
+ mechanical drafters
+ drafters all other
+ aerospace engineering and operations technicians
+ civil engineering technicians
+ electrical and electronic engineering technicians
+ electromechanical technicians
+ environmental engineering technicians
+ industrial engineering technicians
+ mechanical engineering technicians
+ engineering technicians except drafters all other
+ surveying and mapping technicians
+ animal scientists
+ food scientists and technologists
+ soil and plant scientists
+ biochemists and biophysicists
+ microbiologists
+ zoologists and wildlife biologists
+ biological scientists all other
+ conservation scientists
+ foresters
+ epidemiologists
+ medical scientists except epidemiologists
+ life scientists all other
+ astronomers
+ physicists
+ atmospheric and space scientists
+ chemists
+ materials scientists
+ environmental scientists and specialists including health
+ geoscientists except hydrologists and geographers
+ hydrologists
+ physical scientists all other
+ economists
+ survey researchers
+ clinical counseling and school psychologists
+ industrialorganizational psychologists
+ psychologists all other
+ sociologists
+ urban and regional planners
+ anthropologists and archeologists
+ geographers
+ historians
+ political scientists
+ social scientists and related workers all other
+ agricultural and food science technicians
+ biological technicians
+ chemical technicians
+ geological and petroleum technicians
+ nuclear technicians
+ social science research assistants
+ environmental science and protection technicians including health
+ forensic science technicians
+ forest and conservation technicians
+ life physical and social science technicians all other
+ substance abuse and behavioral disorder counselors
+ educational guidance school and vocational counselors
+ marriage and family therapists
+ mental health counselors
+ rehabilitation counselors
+ counselors all other
+ child family and school social workers
+ healthcare social workers
+ mental health and substance abuse social workers
+social workers all other
+ health educators
+ probation officers and correctional treatment specialists
+ social and human service assistants
+ community health workers
+ community and social service specialists all other
+ clergy
+ directors religious activities and education
+ religious workers all other
+ lawyers
+ judicial law clerks
+ administrative law judges adjudicators and hearing officers
+ arbitrators mediators and conciliators
+ judges magistrate judges and magistrates
+ paralegals and legal assistants
+ court reporters
+ title examiners abstractors and searchers
+ legal support workers all other
+ business teachers postsecondary
+ computer science teachers postsecondary
+ mathematical science teachers postsecondary
+ architecture teachers postsecondary
+ engineering teachers postsecondary
+ agricultural sciences teachers postsecondary
+ biological science teachers postsecondary
+ forestry and conservation science teachers postsecondary
+ atmospheric earth marine and space sciences teachers postsecondary
+ chemistry teachers postsecondary
+ environmental science teachers postsecondary
+ physics teachers postsecondary
+ anthropology and archeology teachers postsecondary
+ area ethnic and cultural studies teachers postsecondary
+ economics teachers postsecondary
+ geography teachers postsecondary
+ political science teachers postsecondary
+ psychology teachers postsecondary
+ sociology teachers postsecondary
+social sciences teachers postsecondary all other
+ health specialties teachers postsecondary
+ nursing instructors and teachers postsecondary
+ education teachers postsecondary
+ library science teachers postsecondary
+criminal justice and law enforcement teachers postsecondary
+ law teachers postsecondary
+ social work teachers postsecondary
+ art drama and music teachers postsecondary
+ communications teachers postsecondary
+ english language and literature teachers postsecondary
+ foreign language and literature teachers postsecondary
+ history teachers postsecondary
+ philosophy and religion teachers postsecondary
+ graduate teaching assistants
+ home economics teachers postsecondary
+ recreation and fitness studies teachers postsecondary
+ vocational education teachers postsecondary
+postsecondary teachers all other
+ preschool teachers except special education
+ kindergarten teachers except special education
+ elementary school teachers except special education
+ middle school teachers except special and careertechnical education
+ careertechnical  education teachers middle school
+ secondary school teachers except special and careertechnical education
+ careertechnical education teachers secondary school
+ special education teachers preschool
+ special education teachers kindergarten and elementary school
+ special education teachers middle school
+ special education teachers secondary school
+ special education teachers all other
+ adult basic and secondary education and literacy teachers and instructors
+ selfenrichment education teachers
+ teachers and instructors all other
+ archivists
+ curators
+ museum technicians and conservators
+ librarians
+ library technicians
+ audiovisual and multimedia collections specialists
+ farm and home management advisors
+ instructional coordinators
+ teacher assistants
+ education training and library workers all other
+ art directors
+ craft artists
+ fine artists including painters sculptors and illustrators
+ multimedia artists and animators
+ artists and related workers all other
+ commercial and industrial designers
+ fashion designers
+ floral designers
+ graphic designers
+ interior designers
+ merchandise displayers and window trimmers
+ set and exhibit designers
+ designers all other
+ actors
+ producers and directors
+ athletes and sports competitors
+ coaches and scouts
+ umpires referees and other sports officials
+ dancers
+ choreographers
+ music directors and composers
+ musicians and singers
+ entertainers and performers sports and related workers all other
+ radio and television announcers
+ public address system and other announcers
+ broadcast news analysts
+ reporters and correspondents
+ public relations specialists
+ editors
+ technical writers
+ writers and authors
+ interpreters and translators
+ media and communication workers all other
+ audio and video equipment technicians
+ broadcast technicians
+ radio operators
+ sound engineering technicians
+ photographers
+ camera operators television video and motion picture
+ film and video editors
+ media and communication equipment workers all other
+ chiropractors
+ dentists general
+ oral and maxillofacial surgeons
+ orthodontists
+ prosthodontists
+ dentists all other specialists
+ dietitians and nutritionists
+ optometrists
+ pharmacists
+ anesthesiologists
+ family and general practitioners
+ internists general
+ obstetricians and gynecologists
+ pediatricians general
+ psychiatrists
+ surgeons
+ physicians and surgeons all other
+ physician assistants
+ podiatrists
+ occupational therapists
+ physical therapists
+ radiation therapists
+ recreational therapists
+ respiratory therapists
+ speechlanguage pathologists
+ exercise physiologists
+ therapists all other
+ veterinarians
+ registered nurses
+ nurse anesthetists
+ nurse midwives
+ nurse practitioners
+ audiologists
+ health diagnosing and treating practitioners all other
+ medical and clinical laboratory technologists
+ medical and clinical laboratory technicians
+ dental hygienists
+ cardiovascular technologists and technicians
+ diagnostic medical sonographers
+ nuclear medicine technologists
+ radiologic technologists
+ magnetic resonance imaging technologists
+ emergency medical technicians and paramedics
+ dietetic technicians
+ pharmacy technicians
+ psychiatric technicians
+ respiratory therapy technicians
+ surgical technologists
+ veterinary technologists and technicians
+ ophthalmic medical technicians
+ licensed practical and licensed vocational nurses
+ medical records and health information technicians
+ opticians dispensing
+ orthotists and prosthetists
+ hearing aid specialists
+ health technologists and technicians all other
+ occupational health and safety specialists
+ occupational health and safety technicians
+ athletic trainers
+ genetic counselors
+ healthcare practitioners and technical workers all other
+ home health aides
+ psychiatric aides
+ nursing assistants
+ orderlies
+ occupational therapy assistants
+ occupational therapy aides
+ physical therapist assistants
+ physical therapist aides
+ massage therapists
+ dental assistants
+ medical assistants
+ medical equipment preparers
+ medical transcriptionists
+ pharmacy aides
+ veterinary assistants and laboratory animal caretakers
+ phlebotomists
+ healthcare support workers all other
+ firstline supervisors of correctional officers
+ firstline supervisors of police and detectives
+ firstline supervisors of fire fighting and prevention workers
+ firstline supervisors of protective service workers all other
+ firefighters
+ fire inspectors and investigators
+ forest fire inspectors and prevention specialists
+ bailiffs
+ correctional officers and jailers
+ detectives and criminal investigators
+ fish and game wardens
+ parking enforcement workers
+ police and sheriffs patrol officers
+ transit and railroad police
+ animal control workers
+ private detectives and investigators
+ gaming surveillance officers and gaming investigators
+ security guards
+ crossing guards
+ lifeguards ski patrol and other recreational protective service
+ transportation security screeners
+ protective service workers all other
+ chefs and head cooks
+ firstline supervisors of food preparation and serving workers
+ cooks fast food
+ cooks institution and cafeteria
+ cooks private household
+ cooks restaurant
+ cooks short order
+ cooks all other
+ food preparation workers
+ bartenders
+ combined food preparation and serving workers including fast food
+ counter attendants cafeteria food concession and coffee shop
+ waiters and waitresses
+ food servers nonrestaurant
+ dining room and cafeteria attendants and bartender helpers
+ dishwashers
+ hosts and hostesses restaurant lounge and coffee shop
+ food preparation and serving related workers all other
+ firstline supervisors of housekeeping and janitorial workers
+firstline supervisors of landscaping lawn service and groundskeeping workers
+ janitors and cleaners except maids and housekeeping cleaners
+ maids and housekeeping cleaners
+ building cleaning workers all other
+ pest control workers
+ landscaping and groundskeeping workers
+ pesticide handlers sprayers and applicators vegetation
+ tree trimmers and pruners
+ grounds maintenance workers all other
+ gaming supervisors
+ slot supervisors
+ firstline supervisors of personal service workers
+ animal trainers
+ nonfarm animal caretakers
+ gaming dealers
+ gaming and sports book writers and runners
+ gaming service workers all other
+ motion picture projectionists
+ ushers lobby attendants and ticket takers
+ amusement and recreation attendants
+ costume attendants
+ locker room coatroom and dressing room attendants
+ entertainment attendants and related workers all other
+ embalmers
+ funeral attendants
+ morticians undertakers and funeral directors
+ barbers
+ hairdressers hairstylists and cosmetologists
+ makeup artists theatrical and performance
+ manicurists and pedicurists
+ shampooers
+ skincare specialists
+ baggage porters and bellhops
+ concierges
+ tour guides and escorts
+ travel guides
+ childcare workers
+ personal care aides
+ fitness trainers and aerobics instructors
+ recreation workers
+ residential advisors
+ personal care and service workers all other
+ firstline supervisors of retail sales workers
+ firstline supervisors of nonretail sales workers
+ cashiers
+ gaming change persons and booth cashiers
+ counter and rental clerks
+ parts salespersons
+retail salespersons
+ advertising sales agents
+ insurance sales agents
+ securities commodities and financial services sales agents
+ travel agents
+ sales representatives services all other
+ sales representatives wholesale and manufacturing technical and scientific products
+ sales representatives wholesale and manufacturing except technical and scientific products
+ demonstrators and product promoters
+ models
+ real estate brokers
+ real estate sales agents
+ sales engineers
+ telemarketers
+ doortodoor sales workers news and street vendors and related workers
+ sales and related workers all other
+ firstline supervisors of office and administrative support workers
+ switchboard operators including answering service
+ telephone operators
+ communications equipment operators all other
+ bill and account collectors
+ billing and posting clerks
+ bookkeeping accounting and auditing clerks
+ gaming cage workers
+ payroll and timekeeping clerks
+ procurement clerks
+ tellers
+ financial clerks all other
+ brokerage clerks
+ correspondence clerks
+ court municipal and license clerks
+ credit authorizers checkers and clerks
+ customer service representatives
+ eligibility interviewers government programs
+ file clerks
+ hotel motel and resort desk clerks
+ interviewers except eligibility and loan
+ library assistants clerical
+ loan interviewers and clerks
+ new accounts clerks
+ order clerks
+ human resources assistants except payroll and timekeeping
+ receptionists and information clerks
+ reservation and transportation ticket agents and travel clerks
+ information and record clerks all other
+ cargo and freight agents
+ couriers and messengers
+ police fire and ambulance dispatchers
+ dispatchers except police fire and ambulance
+ meter readers utilities
+ postal service clerks
+ postal service mail carriers
+ postal service mail sorters processors and processing machine operators
+ production planning and expediting clerks
+ shipping receiving and traffic clerks
+ stock clerks and order fillers
+ weighers measurers checkers and samplers recordkeeping
+ executive secretaries and executive administrative assistants
+ legal secretaries
+ medical secretaries
+ secretaries and administrative assistants except legal medical and executive
+ computer operators
+ data entry keyers
+ word processors and typists
+ desktop publishers
+ insurance claims and policy processing clerks
+ mail clerks and mail machine operators except postal service
+ office clerks general
+ office machine operators except computer
+ proofreaders and copy markers
+ statistical assistants
+office and administrative support workers all other
+ firstline supervisors of farming fishing and forestry workers
+ agricultural inspectors
+animal breeders
+ graders and sorters agricultural products
+ agricultural equipment operators
+ farmworkers and laborers crop nursery and greenhouse
+ farmworkers farm ranch and aquacultural animals
+ agricultural workers all other
+ fishers and related fishing workers
+ hunters and trappers
+ forest and conservation workers
+ fallers
+ logging equipment operators
+ log graders and scalers
+ logging workers all other
+supervisors of construction and extraction workers
+ boilermakers
+ brickmasons and blockmasons
+ stonemasons
+ carpenters
+ carpet installers
+ floor layers except carpet wood and hard tiles
+ floor sanders and finishers
+ tile and marble setters
+ cement masons and concrete finishers
+ terrazzo workers and finishers
+ construction laborers
+ paving surfacing and tamping equipment operators
+ piledriver operators
+ operating engineers and other construction equipment operators
+ drywall and ceiling tile installers
+ tapers
+ electricians
+ glaziers
+ insulation workers floor ceiling and wall
+ insulation workers mechanical
+ painters construction and maintenance
+ paperhangers
+ pipelayers
+ plumbers pipefitters and steamfitters
+ plasterers and stucco masons
+ reinforcing iron and rebar workers
+ roofers
+ sheet metal workers
+ structural iron and steel workers
+ solar photovoltaic installers
+helpersbrickmasons blockmasons stonemasons and tile and marble setters
+helperscarpenters
+helperselectricians
+helperspainters paperhangers plasterers and stucco masons
+helperspipelayers plumbers pipefitters and steamfitters
+helpersroofers
+helpers construction trades all other
+ construction and building inspectors
+ elevator installers and repairers
+ fence erectors
+ hazardous materials removal workers
+ highway maintenance workers
+ railtrack laying and maintenance equipment operators
+ septic tank servicers and sewer pipe cleaners
+ segmental pavers
+ construction and related workers all other
+ derrick operators oil and gas
+ rotary drill operators oil and gas
+ service unit operators oil gas and mining
+ earth drillers except oil and gas
+ explosives workers ordnance handling experts and blasters
+ continuous mining machine operators
+ mine cutting and channeling machine operators
+mining machine operators all other
+ rock splitters quarry
+ roof bolters mining
+ roustabouts oil and gas
+ helpersextraction workers
+extraction workers all other
+ firstline supervisors of mechanics installers and repairers
+ computer automated teller and office machine repairers
+ radio cellular and tower equipment installers and repairers
+ telecommunications equipment installers and repairers except line installers
+ avionics technicians
+ electric motor power tool and related repairers
+ electrical and electronics installers and repairers transportation equipment
+ electrical and electronics repairers commercial and industrial equipment
+ electrical and electronics repairers powerhouse substation and relay
+ electronic equipment installers and repairers motor vehicles
+ electronic home entertainment equipment installers and repairers
+ security and fire alarm systems installers
+ aircraft mechanics and service technicians
+ automotive body and related repairers
+ automotive glass installers and repairers
+ automotive service technicians and mechanics
+ bus and truck mechanics and diesel engine specialists
+ farm equipment mechanics and service technicians
+ mobile heavy equipment mechanics except engines
+ rail car repairers
+ motorboat mechanics and service technicians
+ motorcycle mechanics
+ outdoor power equipment and other small engine mechanics
+ bicycle repairers
+ recreational vehicle service technicians
+ tire repairers and changers
+ mechanical door repairers
+ control and valve installers and repairers except mechanical door
+ heating air conditioning and refrigeration mechanics and installers
+ home appliance repairers
+ industrial machinery mechanics
+ maintenance workers machinery
+ millwrights
+refractory materials repairers except brickmasons
+ electrical powerline installers and repairers
+ telecommunications line installers and repairers
+ camera and photographic equipment repairers
+ medical equipment repairers
+ musical instrument repairers and tuners
+ watch repairers
+ precision instrument and equipment repairers all other
+ maintenance and repair workers general
+ wind turbine service technicians
+ coin vending and amusement machine servicers and repairers
+ commercial divers
+ fabric menders except garment
+ locksmiths and safe repairers
+ manufactured building and mobile home installers
+ riggers
+ signal and track switch repairers
+ helpersinstallation maintenance and repair workers
+installation maintenance and repair workers all other
+ firstline supervisors of production and operating workers
+ aircraft structure surfaces rigging and systems assemblers
+ coil winders tapers and finishers
+ electrical and electronic equipment assemblers
+ electromechanical equipment assemblers
+ engine and other machine assemblers
+ structural metal fabricators and fitters
+ fiberglass laminators and fabricators
+team assemblers
+ timing device assemblers and adjusters
+ assemblers and fabricators all other
+ bakers
+ butchers and meat cutters
+ meat poultry and fish cutters and trimmers
+ slaughterers and meat packers
+ food and tobacco roasting baking and drying machine operators and tenders
+ food batchmakers
+ food cooking machine operators and tenders
+ food processing workers all other
+ computercontrolled machine tool operators metal and plastic
+ computer numerically controlled machine tool programmers metal and plastic
+ extruding and drawing machine setters operators and tenders metal and plastic
+ forging machine setters operators and tenders metal and plastic
+ rolling machine setters operators and tenders metal and plastic
+ cutting punching and press machine setters operators and tenders metal and plastic
+ drilling and boring machine tool setters operators and tenders metal and plastic
+ grinding lapping polishing and buffing machine tool setters operators and tenders metal and plastic
+ lathe and turning machine tool setters operators and tenders metal and plastic
+ milling and planing machine setters operators and tenders metal and plastic
+ machinists
+ metalrefining furnace operators and tenders
+ pourers and casters metal
+ model makers metal and plastic
+ patternmakers metal and plastic
+ foundry mold and coremakers
+ molding coremaking and casting machine setters operators and tenders metal and plastic
+ multiple machine tool setters operators and tenders metal and plastic
+ tool and die makers
+ welders cutters solderers and brazers
+ welding soldering and brazing machine setters operators and tenders
+ heat treating equipment setters operators and tenders metal and plastic
+ layout workers metal and plastic
+ plating and coating machine setters operators and tenders metal and plastic
+ tool grinders filers and sharpeners
+metal workers and plastic workers all other
+ prepress technician and workers
+ printing press operators
+ print binding and finishing workers
+ laundry and drycleaning workers
+ pressers textile garment and related materials
+ sewing machine operators
+ shoe and leather workers and repairers
+ shoe machine operators and tenders
+ sewers hand
+ tailors dressmakers and custom sewers
+ textile bleaching and dyeing machine operators and tenders
+ textile cutting machine setters operators and tenders
+ textile knitting and weaving machine setters operators and tenders
+ textile winding twisting and drawing out machine setters operators and tenders
+ extruding and forming machine setters operators and tenders synthetic and glass fibers
+ fabric and apparel patternmakers
+ upholsterers
+ textile apparel and furnishings workers all other
+ cabinetmakers and bench carpenters
+ furniture finishers
+ model makers wood
+ patternmakers wood
+ sawing machine setters operators and tenders wood
+ woodworking machine setters operators and tenders except sawing
+ woodworkers all other
+ nuclear power reactor operators
+ power distributors and dispatchers
+ power plant operators
+ stationary engineers and boiler operators
+ water and wastewater treatment plant and system operators
+ chemical plant and system operators
+ gas plant operators
+ petroleum pump system operators refinery operators and gaugers
+ plant and system operators all other
+ chemical equipment operators and tenders
+ separating filtering clarifying precipitating and still machine setters operators and tenders
+ crushing grinding and polishing machine setters operators and tenders
+ grinding and polishing workers hand
+ mixing and blending machine setters operators and tenders
+ cutters and trimmers hand
+ cutting and slicing machine setters operators and tenders
+ extruding forming pressing and compacting machine setters operators and tenders
+ furnace kiln oven drier and kettle operators and tenders
+ inspectors testers sorters samplers and weighers
+ jewelers and precious stone and metal workers
+ dental laboratory technicians
+ medical appliance technicians
+ ophthalmic laboratory technicians
+ packaging and filling machine operators and tenders
+ coating painting and spraying machine setters operators and tenders
+ painters transportation equipment
+ painting coating and decorating workers
+ semiconductor processors
+ photographic process workers and processing machine operators
+ adhesive bonding machine operators and tenders
+ cleaning washing and metal pickling equipment operators and tenders
+ cooling and freezing equipment operators and tenders
+ etchers and engravers
+ molders shapers and casters except metal and plastic
+ paper goods machine setters operators and tenders
+ tire builders
+ helpersproduction workers
+ production workers all other
+ aircraft cargo handling supervisors
+ firstline supervisors of helpers laborers and material movers hand
+ firstline supervisors of transportation and materialmoving machine and vehicle operators
+ airline pilots copilots and flight engineers
+ commercial pilots
+ air traffic controllers
+ airfield operations specialists
+ flight attendants
+ ambulance drivers and attendants except emergency medical technicians
+ bus drivers transit and intercity
+ bus drivers school or special client
+ driversales workers
+ heavy and tractortrailer truck drivers
+ light truck or delivery services drivers
+ taxi drivers and chauffeurs
+ motor vehicle operators all other
+ locomotive engineers
+ locomotive firers
+ rail yard engineers dinkey operators and hostlers
+ railroad brake signal and switch operators
+ railroad conductors and yardmasters
+ subway and streetcar operators
+ rail transportation workers all other
+ sailors and marine oilers
+captains mates and pilots of water vessels
+ motorboat operators
+ ship engineers
+ bridge and lock tenders
+ parking lot attendants
+ automotive and watercraft service attendants
+ traffic technicians
+ transportation inspectors
+ transportation attendants except flight attendants
+ transportation workers all other
+ conveyor operators and tenders
+ crane and tower operators
+ dredge operators
+ excavating and loading machine and dragline operators
+ loading machine operators underground mining
+ hoist and winch operators
+ industrial truck and tractor operators
+ cleaners of vehicles and equipment
+ laborers and freight stock and material movers hand
+ machine feeders and offbearers
+ packers and packagers hand
+ gas compressor and gas pumping station operators
+ pump operators except wellhead pumpers
+ wellhead pumpers
+ refuse and recyclable material collectors
+ mine shuttle car operators
+ tank car truck and ship loaders
+ material moving workers all other
+air crew officers
+aircraft launch and recovery officers
+armored assault vehicle officers
+artillery and missile officers
+command and control center officers
+infantry officers
+special forces officers
+military officer special and tactical operations leaders all other
+firstline supervisors of air crew members
+firstline supervisors of weapons specialistscrew members
+firstline supervisors of all other tactical operations specialists
+air crew members
+aircraft launch and recovery specialists
+armored assault vehicle crew members
+artillery and missile crew members
+command and control center specialists
+infantry
+radar and sonar technicians
+special forces
+military enlisted tactical operations and airweapons specialists and crew members all other
